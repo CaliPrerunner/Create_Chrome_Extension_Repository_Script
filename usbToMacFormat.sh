@@ -10,7 +10,7 @@ fi
 diskutil info $1
 diskutil eraseDisk FAT32 MBRFormat $1
 diskutil info $1
-
+echo "hell0"
 exit
 
 
