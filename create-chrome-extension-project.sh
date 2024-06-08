@@ -41,7 +41,7 @@ echo "<!idoctype html>
 <html lang ="en">
 <body>
 <h1>Hello World!</h1>
-<script src="popup.js"></script
+<script src="popup.js"></script>
 </body>
 </html>" >> "${TARGET_DIR}/popup/popup.html"
 
