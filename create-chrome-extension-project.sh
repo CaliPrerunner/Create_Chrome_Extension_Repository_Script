@@ -37,7 +37,7 @@ touch "${TARGET_DIR}/popup/popup.html"
 touch "${TARGET_DIR}/popup/popup.js"
 touch "${TARGET_DIR}/popup/popup.css"
 
-echo "<!idoctype html>
+echo "<!DOCTYPE html>
 <html lang ="en">
 <body>
 <h1>Hello World!</h1>
